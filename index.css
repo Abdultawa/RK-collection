@@ -73,7 +73,7 @@ nav{
  .pht{
     width: 100%;
     flex-direction:column;
-    height: auto;
+    height: 350px;
  }
  .write{
   padding: 5px;
@@ -128,3 +128,8 @@ a{
   #g{width: 70px;}
   
 }
+.pht{
+    width: 100%;
+    flex-direction:column;
+    height: auto;
+ }
