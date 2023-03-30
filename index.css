@@ -126,4 +126,13 @@ a{
   margin-top: 10px;
   }
   #g{width: 70px;}
+  body{
+    background-image: url("Screenshot_20230330-165128.png");
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    /* position: sticky; */
+    background-attachment: fixed;
+    border: none;
+  }
 }
