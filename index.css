@@ -127,9 +127,9 @@ a{
   }
   #g{width: 70px;}
   
-}
-.pht{
+ .pht{
     width: 100%;
     flex-direction:column;
     height: auto;
- }
+ } 
+}
