@@ -132,13 +132,13 @@ a{
     flex-direction:column;
     height: auto;
  } 
- body{
+ /* body{
   background-image: url("Screenshot_20230330-165128.png");
   background-position: center;
-  /* background-repeat: no-repeat; */
+  /* background-repeat: no-repeat; 
   background-size: cover;
-  /* position: sticky; */
+  /* position: sticky; 
   background-attachment: fixed;
   border: none;
-}
+} */
 }
